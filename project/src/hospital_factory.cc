@@ -1,0 +1,1 @@
+#include "hospital_factory.h"
